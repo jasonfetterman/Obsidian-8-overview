@@ -1,18 +1,25 @@
-## 🚀 Follow & Support Obsidian-8
+## 🕷 Obsidian-8 V3 — Autonomous Octopod Robotics Platform
 
-Obsidian-8 V3 is a fully engineered 8-legged autonomous robotics platform. Join the journey and get **exclusive access** to behind-the-scenes content, STL previews, CAD files, and prototype videos.
+**Intelligence by Architecture • Safety by Design • Swarm by Default • Energy-Aware**
 
-### Support & Exclusive Access
-[💰 Patreon →](https://patreon.com/BlackSteelInnovations0518)  
-*Support Obsidian-8 and unlock private GitHub repo access, STL previews, and early prototype videos!*
+Obsidian-8 V3 is a fully engineered 8-legged autonomous robot designed for:  
+- Extreme terrain traversal & stair negotiation  
+- Swarm-ready multi-unit coordination  
+- Energy-aware mission planning & autonomous charging  
+- Fault-tolerant, industrial-grade operation  
 
-### Social Media & Updates
-[📸 Instagram →](https://www.instagram.com/blacksteelinnovations/)  
-[📺 YouTube →](https://www.youtube.com/@jasonfetterman-b5k)  
-[🎵 TikTok →](https://www.tiktok.com/@blacksteelinnovations?lang=en)  
-[📘 Facebook →](https://www.facebook.com/profile.php?id=61576379961633)
+**Why Eight Legs?**  
+- Tripod gait redundancy  
+- Passive stability under partial failure  
+- Dynamic load distribution & obstacle negotiation  
 
-### Contact
-✉ Email: [blacksteelinnovations@gmail.com](mailto:blacksteelinnovations@gmail.com)
+**Core Technical Capabilities**  
+- Hybrid GPS + SLAM navigation  
+- Reactive obstacle handling  
+- Multi-mode gait engine & energy-aware path planning  
+- Swarm sector coordination & remote mission governance  
 
-> Your support funds printing, electronics, and ongoing development, helping bring Obsidian-8 to life!
+**Long-Term Vision**  
+A scalable family of resilient octopods for persistent deployment, coordinated swarms, and industrial-grade autonomy.  
+
+> Join the journey and support Obsidian-8 on [Patreon](#) to unlock STL previews, CAD files, and early prototype videos!
